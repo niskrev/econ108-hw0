@@ -2,12 +2,12 @@
 # Homework 0
 
 ## Prerequisites: you already have
-    - Git set up on your machine
-    - Github account
-    - worked trough Git, Github tutorials
+* Git set up on your machine
+* Github account
+* worked trough Git, Github tutorials
 
 ## Instructions:
-
+ 
 * Fork this repository to your Github account
 * clone your fork to the econ108/homeworks/ directory on your computer
 * go into the cloned repo
