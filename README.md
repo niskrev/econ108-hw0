@@ -30,27 +30,27 @@
 
 * open first_name-last_name.yml and fill in your information. (if you have installed VScode use the following command to open the file. Otherwise, use any text editor, like notepad)
     ```
-	code first_name-last_name.yml
+    code first_name-last_name.yml
     ```
 * check the status of the repo
 * add the modified first_name-last_name.yml file to the staging area
 
     ```
-    	git add first_name-last_name.yml
+    git add first_name-last_name.yml
     ```
 
 * check the status of the repo
 * commit the file with the message "add first_name-last_name.yml" 
 
     ```
-    	git commit -m "add first_name-last_name.yml"
+    git commit -m "add first_name-last_name.yml"
     ```
     
 * check the status of the repo
 * push your commit to your remote 
 
     ```
-    	git push
+    git push
     ```
 * go to your fork on Github
 * create a pull request
